@@ -1,0 +1,33 @@
+D:\Skripsi\TGD\2021\2021_PROGRAM SISTEM INFORMASI\DATA MINING\APRIORI\2021 Ramadani Pasaribu\Ramadhani_pasaribu\Ramadhani_pasaribu\bin\Debug\Ramadhani_pasaribu.exe
+D:\Skripsi\TGD\2021\2021_PROGRAM SISTEM INFORMASI\DATA MINING\APRIORI\2021 Ramadani Pasaribu\Ramadhani_pasaribu\Ramadhani_pasaribu\bin\Debug\Ramadhani_pasaribu.pdb
+D:\Skripsi\TGD\2021\2021_PROGRAM SISTEM INFORMASI\DATA MINING\APRIORI\2021 Ramadani Pasaribu\Ramadhani_pasaribu\Ramadhani_pasaribu\bin\Debug\Ramadhani_pasaribu.xml
+D:\Skripsi\TGD\2021\2021_PROGRAM SISTEM INFORMASI\DATA MINING\APRIORI\2021 Ramadani Pasaribu\Ramadhani_pasaribu\Ramadhani_pasaribu\obj\x86\Debug\Ramadhani_pasaribu.FormLogin.resources
+D:\Skripsi\TGD\2021\2021_PROGRAM SISTEM INFORMASI\DATA MINING\APRIORI\2021 Ramadani Pasaribu\Ramadhani_pasaribu\Ramadhani_pasaribu\obj\x86\Debug\Ramadhani_pasaribu.Resources.resources
+D:\Skripsi\TGD\2021\2021_PROGRAM SISTEM INFORMASI\DATA MINING\APRIORI\2021 Ramadani Pasaribu\Ramadhani_pasaribu\Ramadhani_pasaribu\obj\x86\Debug\Ramadhani_pasaribu.vbproj.GenerateResource.Cache
+D:\Skripsi\TGD\2021\2021_PROGRAM SISTEM INFORMASI\DATA MINING\APRIORI\2021 Ramadani Pasaribu\Ramadhani_pasaribu\Ramadhani_pasaribu\obj\x86\Debug\Ramadhani_pasaribu.exe
+D:\Skripsi\TGD\2021\2021_PROGRAM SISTEM INFORMASI\DATA MINING\APRIORI\2021 Ramadani Pasaribu\Ramadhani_pasaribu\Ramadhani_pasaribu\obj\x86\Debug\Ramadhani_pasaribu.xml
+D:\Skripsi\TGD\2021\2021_PROGRAM SISTEM INFORMASI\DATA MINING\APRIORI\2021 Ramadani Pasaribu\Ramadhani_pasaribu\Ramadhani_pasaribu\obj\x86\Debug\Ramadhani_pasaribu.pdb
+D:\Skripsi\TGD\2021\2021_PROGRAM SISTEM INFORMASI\DATA MINING\APRIORI\2021 Ramadani Pasaribu\Ramadhani_pasaribu\Ramadhani_pasaribu\obj\x86\Debug\Ramadhani_pasaribu.Form_Transaksi.resources
+D:\Skripsi\TGD\2021\2021_PROGRAM SISTEM INFORMASI\DATA MINING\APRIORI\2021 Ramadani Pasaribu\Ramadhani_pasaribu\Ramadhani_pasaribu\obj\x86\Debug\Ramadhani_pasaribu.Form_Produk.resources
+D:\Skripsi\TGD\2021\2021_PROGRAM SISTEM INFORMASI\DATA MINING\APRIORI\2021 Ramadani Pasaribu\Ramadhani_pasaribu\Ramadhani_pasaribu\obj\x86\Debug\Ramadhani_pasaribu.Form_Utama.resources
+D:\Skripsi\TGD\2021\2021_PROGRAM SISTEM INFORMASI\DATA MINING\APRIORI\2021 Ramadani Pasaribu\Ramadhani_pasaribu\Ramadhani_pasaribu\obj\x86\Debug\Ramadhani_pasaribu.Form_Proses.resources
+D:\Skripsi\TGD\2021\2021_PROGRAM SISTEM INFORMASI\DATA MINING\APRIORI\2021 Ramadani Pasaribu\Ramadhani_pasaribu\Ramadhani_pasaribu\bin\Debug\Ramadhani_pasaribu.exe.config
+D:\Skripsi\TGD\2021\2021_PROGRAM SISTEM INFORMASI\DATA MINING\APRIORI\2021 Ramadani Pasaribu\Ramadhani_pasaribu\Ramadhani_pasaribu\obj\x86\Debug\Ramadhani_pasaribu.vbprojResolveAssemblyReference.cache
+D:\Skripsi\TGD\2021\2021_PROGRAM SISTEM INFORMASI\DATA MINING\APRIORI\2021 Ramadani Pasaribu\Ramadhani_pasaribu\Ramadhani_pasaribu\obj\x86\Debug\Ramadhani_pasaribu.Form1.resources
+D:\Skripsi\TGD\2021\2021_PROGRAM SISTEM INFORMASI\DATA MINING\APRIORI\2021 Ramadani Pasaribu\Ramadhani_pasaribu\Ramadhani_pasaribu\obj\x86\Debug\Ramadhani_pasaribu.Form_Hasil.resources
+D:\Skripsi\TGD\2021\2021_PROGRAM SISTEM INFORMASI\DATA MINING\APRIORI\2021 Ramadani Pasaribu\Ramadhani_pasaribu\Ramadhani_pasaribu\obj\x86\Debug\Ramadhani_pasaribu.FrmKonfirmasi.resources
+D:\2017020756_RamadaniPasaribu_SI\Ramadhani_pasaribu(1)\Ramadhani_pasaribu\Ramadhani_pasaribu\bin\Debug\Ramadhani_pasaribu.exe.config
+D:\2017020756_RamadaniPasaribu_SI\Ramadhani_pasaribu(1)\Ramadhani_pasaribu\Ramadhani_pasaribu\obj\x86\Debug\Ramadhani_pasaribu.exe
+D:\2017020756_RamadaniPasaribu_SI\Ramadhani_pasaribu(1)\Ramadhani_pasaribu\Ramadhani_pasaribu\obj\x86\Debug\Ramadhani_pasaribu.xml
+D:\2017020756_RamadaniPasaribu_SI\Ramadhani_pasaribu(1)\Ramadhani_pasaribu\Ramadhani_pasaribu\obj\x86\Debug\Ramadhani_pasaribu.pdb
+D:\2017020756_RamadaniPasaribu_SI\Ramadhani_pasaribu(1)\Ramadhani_pasaribu\Ramadhani_pasaribu\obj\x86\Debug\Ramadhani_pasaribu.vbprojResolveAssemblyReference.cache
+D:\2017020756_RamadaniPasaribu_SI\Ramadhani_pasaribu(1)\Ramadhani_pasaribu\Ramadhani_pasaribu\obj\x86\Debug\Ramadhani_pasaribu.Form1.resources
+D:\2017020756_RamadaniPasaribu_SI\Ramadhani_pasaribu(1)\Ramadhani_pasaribu\Ramadhani_pasaribu\obj\x86\Debug\Ramadhani_pasaribu.Form_Proses.resources
+D:\2017020756_RamadaniPasaribu_SI\Ramadhani_pasaribu(1)\Ramadhani_pasaribu\Ramadhani_pasaribu\obj\x86\Debug\Ramadhani_pasaribu.Form_Hasil.resources
+D:\2017020756_RamadaniPasaribu_SI\Ramadhani_pasaribu(1)\Ramadhani_pasaribu\Ramadhani_pasaribu\obj\x86\Debug\Ramadhani_pasaribu.Form_Transaksi.resources
+D:\2017020756_RamadaniPasaribu_SI\Ramadhani_pasaribu(1)\Ramadhani_pasaribu\Ramadhani_pasaribu\obj\x86\Debug\Ramadhani_pasaribu.FormLogin.resources
+D:\2017020756_RamadaniPasaribu_SI\Ramadhani_pasaribu(1)\Ramadhani_pasaribu\Ramadhani_pasaribu\obj\x86\Debug\Ramadhani_pasaribu.Form_Produk.resources
+D:\2017020756_RamadaniPasaribu_SI\Ramadhani_pasaribu(1)\Ramadhani_pasaribu\Ramadhani_pasaribu\obj\x86\Debug\Ramadhani_pasaribu.Form_Utama.resources
+D:\2017020756_RamadaniPasaribu_SI\Ramadhani_pasaribu(1)\Ramadhani_pasaribu\Ramadhani_pasaribu\obj\x86\Debug\Ramadhani_pasaribu.FrmKonfirmasi.resources
+D:\2017020756_RamadaniPasaribu_SI\Ramadhani_pasaribu(1)\Ramadhani_pasaribu\Ramadhani_pasaribu\obj\x86\Debug\Ramadhani_pasaribu.Resources.resources
+D:\2017020756_RamadaniPasaribu_SI\Ramadhani_pasaribu(1)\Ramadhani_pasaribu\Ramadhani_pasaribu\obj\x86\Debug\Ramadhani_pasaribu.vbproj.GenerateResource.Cache
